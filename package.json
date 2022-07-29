@@ -34,7 +34,7 @@
     "sanipack": "^2.1.0"
   },
   "peerDependencies": {
-    "react": "^17.0.0"
+    "react": "^16.9 || ^17 || ^18"
   },
   "bugs": {
     "url": "https://github.com/andybywire/sanity-plugin-taxonomy-manager/issues"
